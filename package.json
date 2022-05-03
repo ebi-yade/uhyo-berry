@@ -1,0 +1,26 @@
+{
+  "name": "uhyo-berry",
+  "version": "1.0.0",
+  "description": "『プロを目指す人のためのTypeScript入門』の演習",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebi-yade/uhyo-berry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebi-yade/uhyo-berry/issues"
+  },
+  "homepage": "https://github.com/ebi-yade/uhyo-berry#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "typescript": "^4.6.4"
+  }
+}
